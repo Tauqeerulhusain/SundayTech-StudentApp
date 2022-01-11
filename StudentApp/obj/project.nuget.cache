@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3o55NmQlSD+RSTDZsU6hNxSF0mcKgpzavaIPrLsK5Djbot6NPOWaL7jBArVQ8DjrG6BuiIpxj7MKtKRJSQHTHQ==",
+  "dgSpecHash": "xpFBHJGy0TXbYlPIMJrxtfP0RHAsZSJ+r1QPKp8/2td8xkuVQUE7ie3llGjTujQ5N6db/NHvNOpEF2LZl/Wnfw==",
   "success": true,
   "projectFilePath": "F:\\Project\\StudentApp\\StudentApp\\StudentApp.csproj",
   "expectedPackageFiles": [
@@ -35,6 +35,9 @@
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\nlog\\4.7.11\\nlog.4.7.11.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\nlog.extensions.logging\\1.7.4\\nlog.extensions.logging.1.7.4.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\nlog.web.aspnetcore\\4.14.0\\nlog.web.aspnetcore.4.14.0.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",

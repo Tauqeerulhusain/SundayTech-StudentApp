@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using StudentApp.Filters;
 using StudentBAL.Interface;
 using StudentDAL.Models;
 using System;
@@ -10,6 +11,7 @@ using System.Threading.Tasks;
 
 namespace StudentApp.Controllers
 {
+    [LogRequestBody]
     [Route("api/[controller]")]
     [ApiController]
     public class StudentController : ControllerBase
