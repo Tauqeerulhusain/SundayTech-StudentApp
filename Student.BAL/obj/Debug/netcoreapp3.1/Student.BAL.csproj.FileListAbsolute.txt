@@ -1,0 +1,12 @@
+F:\Project\StudentApp\Student.BAL\bin\Debug\netcoreapp3.1\Student.BAL.deps.json
+F:\Project\StudentApp\Student.BAL\bin\Debug\netcoreapp3.1\Student.BAL.dll
+F:\Project\StudentApp\Student.BAL\bin\Debug\netcoreapp3.1\Student.BAL.pdb
+F:\Project\StudentApp\Student.BAL\bin\Debug\netcoreapp3.1\Student.DAL.dll
+F:\Project\StudentApp\Student.BAL\bin\Debug\netcoreapp3.1\Student.DAL.pdb
+F:\Project\StudentApp\Student.BAL\obj\Debug\netcoreapp3.1\Student.BAL.csproj.AssemblyReference.cache
+F:\Project\StudentApp\Student.BAL\obj\Debug\netcoreapp3.1\Student.BAL.AssemblyInfoInputs.cache
+F:\Project\StudentApp\Student.BAL\obj\Debug\netcoreapp3.1\Student.BAL.AssemblyInfo.cs
+F:\Project\StudentApp\Student.BAL\obj\Debug\netcoreapp3.1\Student.BAL.csproj.CoreCompileInputs.cache
+F:\Project\StudentApp\Student.BAL\obj\Debug\netcoreapp3.1\Student.BAL.csproj.CopyComplete
+F:\Project\StudentApp\Student.BAL\obj\Debug\netcoreapp3.1\Student.BAL.dll
+F:\Project\StudentApp\Student.BAL\obj\Debug\netcoreapp3.1\Student.BAL.pdb

@@ -1,0 +1,12 @@
+F:\Project\StudentApp\Student.DAL\bin\Debug\netcoreapp3.1\Student.DAL.deps.json
+F:\Project\StudentApp\Student.DAL\bin\Debug\netcoreapp3.1\Student.DAL.runtimeconfig.json
+F:\Project\StudentApp\Student.DAL\bin\Debug\netcoreapp3.1\Student.DAL.runtimeconfig.dev.json
+F:\Project\StudentApp\Student.DAL\bin\Debug\netcoreapp3.1\Student.DAL.dll
+F:\Project\StudentApp\Student.DAL\bin\Debug\netcoreapp3.1\Student.DAL.pdb
+F:\Project\StudentApp\Student.DAL\obj\Debug\netcoreapp3.1\Student.DAL.csproj.AssemblyReference.cache
+F:\Project\StudentApp\Student.DAL\obj\Debug\netcoreapp3.1\Student.DAL.AssemblyInfoInputs.cache
+F:\Project\StudentApp\Student.DAL\obj\Debug\netcoreapp3.1\Student.DAL.AssemblyInfo.cs
+F:\Project\StudentApp\Student.DAL\obj\Debug\netcoreapp3.1\Student.DAL.csproj.CoreCompileInputs.cache
+F:\Project\StudentApp\Student.DAL\obj\Debug\netcoreapp3.1\Student.DAL.dll
+F:\Project\StudentApp\Student.DAL\obj\Debug\netcoreapp3.1\Student.DAL.pdb
+F:\Project\StudentApp\Student.DAL\obj\Debug\netcoreapp3.1\Student.DAL.genruntimeconfig.cache
